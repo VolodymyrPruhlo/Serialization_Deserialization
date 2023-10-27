@@ -192,12 +192,3 @@ class AddressBookIterator:
             return records
         else:
             raise StopIteration
-
-
-
-
-
-
-
-
-
